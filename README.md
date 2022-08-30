@@ -1,6 +1,1 @@
 
-
-### c
-
-### Vulnerability Research @ CENSUS
-
