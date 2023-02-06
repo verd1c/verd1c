@@ -1,4 +1,4 @@
 
 Vulnerability Research @ CENSUS SA
 
-Currently learning about fuzzing and symbolic execution
+I like everything reverse engineering related, malware, DRMs, game hacking, and some CTFs :)
